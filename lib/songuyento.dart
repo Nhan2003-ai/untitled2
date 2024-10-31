@@ -27,7 +27,7 @@ import 'package:flutter/material.dart';
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Kiểm Tra Số  Nguyên Tố')),
+      appBar: AppBar(title: Text('Kiểm Tra Số Nguyên Tố')),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
         child: Column(
